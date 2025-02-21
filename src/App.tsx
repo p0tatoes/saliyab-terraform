@@ -10,11 +10,11 @@ function App() {
           alt="logo"
         />
         <p className="text-[#7B42BC] font-bold animate-spin">Sourdough Starter 🎉</p>
+        <p className="text-[#7B42BC] font-bold animate-pulse">Sourdough Starter 🎉</p>
         <p className="text-[#7B42BC] font-bold animate-spin">Sourdough Starter 🎉</p>
+        <p className="text-[#7B42BC] font-bold animate-pulse">Sourdough Starter 🎉</p>
         <p className="text-[#7B42BC] font-bold animate-spin">Sourdough Starter 🎉</p>
-        <p className="text-[#7B42BC] font-bold animate-spin">Sourdough Starter 🎉</p>
-        <p className="text-[#7B42BC] font-bold animate-spin">Sourdough Starter 🎉</p>
-        <p className="text-[#7B42BC] font-bold animate-spin">Sourdough Starter 🎉</p>
+        <p className="text-[#7B42BC] font-bold animate-pulse">Sourdough Starter 🎉</p>
       </header>
     </div>
   );
